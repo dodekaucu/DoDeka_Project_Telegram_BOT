@@ -17,5 +17,11 @@ Entrega 1:
   
   Fue necesario informarse sobre el funcionamiento(a nivel basico) del chatbot de Telegram para asi diseñar nuestro problema y que sean compatibles.
   Tambien aprender mas en profundidad el formato de los diagramas de clases(que si bien fueron mencionados en clase, fue de manera breve y muy por encima.
+ 
+CONTEXTUALIZACIÓN
+  Para la realización de la entrega 1 de este proyecto comenzamos indagando acerca de como realizar las tarjetas CRC y el diagrama UML. En el proceso nos encontramos con la herramienta CRC Maker, en la página "https://echeung.me/crcmaker/" donde, a través de tutoriales en YouTube, logramos realizarlas de forma práctica y didáctica. Al mismo tiempo, para hacer el diagrama UML recurrimos a más tutoriales de YouTube y foros de Reddit, donde nos encontramos con la herramienta Draw.io como la más recomendada. fue así que terminamos utilizandolo desde su página "https://app.diagrams.net/" y hasta utilizamos su versión de escritorio descargada de "https://www.diagrams.net/" (recomendamos la segunda por su rapidez de acceso y desempeño de la herramienta).
+  
+  Comenzamos indagación sobre la aplicación Telegram, ya que varios del equipo no se habían interiorizado o siquiera la habían usado alguna vez. Para ello cada uno se descargó la app y al mismo tiempo comenzò a utilizarla. Se investigó sobre operaciones realizadas por chatbots y sus utilidades en foros y videos varios. 
+  
 </body>
 
